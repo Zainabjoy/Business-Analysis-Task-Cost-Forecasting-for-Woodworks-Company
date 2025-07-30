@@ -1,15 +1,6 @@
-# Business-Analysis-Task-Cost-Forecasting-for-Woodworks-Company
-## Thanks! Based on your description, I’ll craft a GitHub post that reflects your **Business Analysis journey** and highlights this **cost analysis task**.
+# Woodworks-Bookshelf-Company
 
-Here’s the post you can use for your GitHub README or as a commit message:
-
----
-
-## 📘 Business Analysis Task – Cost Forecasting for Woodworks Company
-
-As part of my **Business Analysis course on Coursera**, I completed a practical task involving cost forecasting for a custom furniture manufacturer — **The Woodworks Company**.
-
-### Task Summary:
+## Task Summary:
 
 The company produces custom-designed wooden furniture using either **cherry** or **oak**. I analyzed a scenario where both **wood prices** and **labor costs** are expected to increase annually. The task involved:
 
@@ -24,4 +15,10 @@ The company produces custom-designed wooden furniture using either **cherry** or
 * Cost analysis
 * Forecasting techniques
 * Business decision support
+
+###  The Dashboard
+  <a href="https://github.com/Zainabjoy/Business-Analysis-Task-Cost-Forecasting-for-Woodworks-Company/blob/main/Business%20Dashboard_page-0001.jpg" target="_blank">
+  <img src="https://raw.githubusercontent.com/Zainabjoy/Business-Analysis-Task-Cost-Forecasting-for-Woodworks-Company/main/Business%20Dashboard_page-0001.jpg" alt="Business Dashboard" width="600">
+</a>
+
 
